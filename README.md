@@ -98,7 +98,7 @@ The app includes 8 predefined expense categories:
 
 ---
 
-Built with ❤️ using React, Vite, and Chart.js
+Built with ❤️ by shaifsab
 
 ## Expanding the ESLint configuration
 
