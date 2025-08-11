@@ -37,7 +37,7 @@ function App() {
           <footer className="footer">
             <div className="container">
               <p className="footer-text">
-                Built with ❤️ using React, Vite, and Chart.js
+                Built with ❤️ by shaifsab
               </p>
             </div>
           </footer>
